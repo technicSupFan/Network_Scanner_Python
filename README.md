@@ -20,3 +20,6 @@ Source of the service-names-port-numbers.csv:
 https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.csv (Download-Link)
 
 https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?search=alt&page=2 (Website)
+
+The service-names-port-numbers.csv is subjected to the CC0 1.0 Creative Commons. (https://creativecommons.org/publicdomain/zero/1.0/)
+On the creativecommons.org website is mentioned the following: "he person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See Other Information below."
