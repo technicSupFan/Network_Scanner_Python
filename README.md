@@ -8,7 +8,7 @@ Have fun with our experiments and stay healthy.
 
 NOTE: We are just a small group of python developers, who want to have fun with Python and other programming languages.
       As a consequence, the written code here won't be perfekt or stable. Make sure to check our code and your OS (Operating System) so that no
-      crazy problems will occure. 
+      crazy problems can occure. 
 
 IMPORTANT:  We are not responsible for any problems, damage or other negative effects on your computer, network or other devices. 
             Use our scripts only with personal responsibility. Don't use our programs in foreign environments in which you don't
